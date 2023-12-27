@@ -1,5 +1,39 @@
 ### Hi there 👋
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ZhaoYifei9" /> </div>
+<?php
+
+namespace AshBaker;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Qquicker',
+                'position' => 'Founder'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
 <!--
 **ZhaoYifei9/ZhaoYifei9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
