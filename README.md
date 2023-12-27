@@ -1,11 +1,7 @@
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=echo(%22Hello%2C%20World%22)%3B&center=true&size=27" />
-    </a>
-  </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%3C%3Fphp+echo(%22Hello%2CWorld!%22))](https://git.io/typing-svg)
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
