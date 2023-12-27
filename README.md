@@ -16,6 +16,7 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  
+
+  ![snake](https://raw.githubusercontent.com/ZhaoYifei9/ZhaoYifei9/output/github-contribution-grid-snake-dark.svg)
 
 </div>
